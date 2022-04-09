@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://Destinsday.github.io</id>
+    <id>https://destinsday.github.io/blog/</id>
     <title>Gridea</title>
-    <updated>2022-04-09T00:54:18.323Z</updated>
+    <updated>2022-04-09T01:14:47.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://Destinsday.github.io"/>
-    <link rel="self" href="https://Destinsday.github.io/atom.xml"/>
+    <link rel="alternate" href="https://destinsday.github.io/blog/"/>
+    <link rel="self" href="https://destinsday.github.io/blog/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://Destinsday.github.io/images/avatar.png</logo>
-    <icon>https://Destinsday.github.io/favicon.ico</icon>
+    <logo>https://destinsday.github.io/blog/images/avatar.png</logo>
+    <icon>https://destinsday.github.io/blog/favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Destinsday.github.io/post/hello-gridea/</id>
-        <link href="https://Destinsday.github.io/post/hello-gridea/">
+        <id>https://destinsday.github.io/blog/post/hello-gridea/</id>
+        <link href="https://destinsday.github.io/blog/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
